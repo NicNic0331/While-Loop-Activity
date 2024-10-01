@@ -1,8 +1,6 @@
-// guessingGame.js
-
 const readline = require('readline');
 
-// Set the correct answer
+// Correct answer
 const correctAnswer = 5;
 
 // Initialize a variable to store the user's guess
